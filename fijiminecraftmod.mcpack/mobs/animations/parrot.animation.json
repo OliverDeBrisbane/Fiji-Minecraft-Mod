@@ -1,7 +1,7 @@
 {
    "format_version":"1.8.0",
    "animations":{
-      "animation.bird.baby_transform":{
+      "animation.parrot.baby_transform":{
          "loop":true,
          "bones":{
             "head":{
@@ -9,7 +9,7 @@
             }
          }
       },
-      "animation.bird.general":{
+      "animation.parrot.general":{
          "loop":true,
          "bones":{
             "body":{
@@ -17,7 +17,7 @@
             }
          }
       },
-      "animation.bird.move":{
+      "animation.parrot.move":{
          "anim_time_update":"query.modified_distance_moved",
          "loop":true,
          "bones":{
