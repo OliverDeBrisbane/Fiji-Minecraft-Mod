@@ -7,7 +7,7 @@
             "default":"iguana"
          },
          "textures":{
-            "default":"textures/image 4.png"
+            "default":"fijiminecraftmod.mcpack/resource_packs/textures/image 4.png"
          },
          "geometry":{
             "default":"geometry.iguana"
